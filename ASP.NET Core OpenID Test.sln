@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Mvc.Server", "Mvc.Server\Mvc.Server.xproj", "{440B6A0C-05F3-4483-B4AA-FB0BC4B239FF}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Mvc.Client", "Mvc.Client\Mvc.Client.xproj", "{68631868-902A-46FB-9A44-BACF1812FBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440B6A0C-05F3-4483-B4AA-FB0BC4B239FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440B6A0C-05F3-4483-B4AA-FB0BC4B239FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440B6A0C-05F3-4483-B4AA-FB0BC4B239FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440B6A0C-05F3-4483-B4AA-FB0BC4B239FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68631868-902A-46FB-9A44-BACF1812FBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68631868-902A-46FB-9A44-BACF1812FBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68631868-902A-46FB-9A44-BACF1812FBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68631868-902A-46FB-9A44-BACF1812FBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
